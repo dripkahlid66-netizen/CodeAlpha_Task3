@@ -1,4 +1,4 @@
-# Secure Coding Review - Vulnerable App Analysis
+# CodeAlpha Task 3: Secure Coding Review - Vulnerable App Analysis
 
 ## Project Overview
 Security audit of a vulnerable Python Flask application using Bandit static analyzer.
